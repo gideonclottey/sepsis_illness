@@ -21,6 +21,7 @@ MODEL_PATHS ={
     'knn': 'model/K-Nearest Neighbors_pipeline.pkl'
 }
 
+print(MODEL_PATHS.items())
 # load models
 models ={}
 
