@@ -1,0 +1,15 @@
+#ignore python cache files
+__pycache__
+*.__pycache__
+#ignore environment files
+.venv
+*.env
+*cfg
+
+#ignore unecessary file 
+d_api.py
+model.py
+#ignore the readme file
+README.md
+#ignore the label encoder
+models/label_encoder.pkl
